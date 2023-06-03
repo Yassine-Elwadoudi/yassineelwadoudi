@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/LILYVS](https://www.behance.net/LILYVS)
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/yelwadou" alt="yelwadou's 42 stats" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://ma.linkedin.com/in/yassine-elwadoudi-625499248?trk=public_profile_browsemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ma.linkedin.com/in/yassine-elwadoudi-625499248?trk=public_profile_browsemap" height="30" width="40" /></a>
