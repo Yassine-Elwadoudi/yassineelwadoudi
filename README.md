@@ -2,9 +2,7 @@
 <h2 align="center">But you can call me LILYVS</h2>
 <h3 align="center">what's the line between design and coding ? Let's find out !</h3>
 
-[![<yelwadou>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
-
-- 🔭 I’m currently working **on 42School cursus**
+- 🔭 I’m currently working **on 42 School cursus**
 
 - 🌱 I’m currently learning **C programing language**
 
