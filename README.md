@@ -1,6 +1,6 @@
 <h1 align="center">Sup g 👋, I'm Yassine Elwadoudi</h1>
 
-<h3 align="center">what's the line between graphic design, 3D art and coding ? Let's find out !</h3>
+<h3 align="center">what's the line between Graphic design, 3D art and Coding ? Let's find out !</h3>
 
 - 🔭 I’m currently working **on 42 School cursus**
 
