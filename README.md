@@ -8,7 +8,6 @@
 
 - 🖼️ Take a look at my art side [https://www.behance.net/LILYVS](https://www.behance.net/LILYVS)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/yelwadou" alt="yelwadou's 42 stats" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
